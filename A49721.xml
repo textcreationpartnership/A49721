@@ -1,0 +1,416 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A horse or a New-Yeares-gift to the right worthy and worshipful Sr. Phillip Balfour, knight, colonell of a Scottish regiment in the seruice of the high and mighty lords the States Generall of the United Prouinces / by G. Lawder.</title>
+            <author>Lauder, George, b. ca. 1600.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49721</idno>
+            <idno type="STC">Wing L604A</idno>
+            <idno type="STC">ESTC R41413</idno>
+            <idno type="EEBO-CITATION">31355305</idno>
+            <idno type="OCLC">ocm 31355305</idno>
+            <idno type="VID">110390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A horse or a New-Yeares-gift to the right worthy and worshipful Sr. Phillip Balfour, knight, colonell of a Scottish regiment in the seruice of the high and mighty lords the States Generall of the United Prouinces / by G. Lawder.</title>
+                  <author>Lauder, George, b. ca. 1600.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Fierens, Booke-seller ...</publisher>
+                  <pubPlace>At Middelburgh :</pubPlace>
+                  <date>Anno 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110390:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <p>A HORSE <hi>OR</hi> A NEW-YEARES-GIFT To the Right worthy, and worshipful Sr. PHILLIP BALFOUR, Knight.</p>
+            <p>Colonell of a Scottiſh Regiment in the ſeruice of the High and Mighty Lords the States Generall of the United Prouinces.</p>
+            <p>BY G. LAWDER</p>
+            <figure>
+               <figDesc>depiction of a horse</figDesc>
+            </figure>
+            <p>AT MIDDELBURGH, Printed by JAMES FIERENS, Booke-ſeller at the ſigne of the GLOBE, in the Gift-ſtreet. Anno 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:110390:2"/>
+            <!-- PDF PAGE 12 -->
+            <head>A HORSE</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>Mid the croud of clients, that doth choack</l>
+               <l>The thronged ſtreets, and temples, with the ſmoak</l>
+               <l>Of loue and incenſe, where true zeal doth burne</l>
+               <l>In happy wiſhes, for the yeares returne;</l>
+               <l>Whileſt each his Patron humbly doth preſent</l>
+               <l>Due hommage, in ſome gift or complement:</l>
+               <l>Rouz'd from ſad ſilence, darke, and drouzy ſhade:</l>
+               <l>My baſhfull Muſe comes bluſhing forth, afraid,</l>
+               <l>And ſhames to be ſurpriz'd at ſuch a time;</l>
+               <l>(When ſo much Reaſon ſhould awake hir rime)</l>
+               <l>That Noble BALFOUR ſhould no token find</l>
+               <l>Of LAUDER'S loue, reſpect, and honeſt mind:</l>
+               <l>But whileſt her griefe in wandring thoughts doth ſtray</l>
+               <l>To find a preſent for this Holy day;</l>
+               <l>On flowrie Peleon, faire Theſſalia's pride,</l>
+               <l>In ſingle choice ſhee nimbly doth beſtride</l>
+               <l>A pranſing Steed, and backwards bends her courſe</l>
+               <l>To giue him for a New-yeares-gift, this HORSE.</l>
+            </lg>
+            <lg>
+               <l>What could my wiſh in all the world haue found,</l>
+               <l>Braue BALFOUR, worthier of my duties bound,</l>
+               <l>Or your acceptance, then what here I bring?</l>
+               <l>The nobleſt Creature, next to man, their king:</l>
+               <l>The warlike Courſer whoſe high courage warmes,</l>
+               <l>When trumpets ſound, and drums doe beat alarmes;</l>
+               <l>The battels ſtrength, in whoſe Heroick breſt,</l>
+               <l>True valour harbours, and true loue doth reſt.</l>
+               <l>The nobleſt Patme in the faireſt feature</l>
+               <l>And juſtly Soueraigne of the ſpeechles creature.</l>
+            </lg>
+            <lg>
+               <l>The HORSE is full of wonder and delight,</l>
+               <l>The ſweeteſt object that preſents the ſight;</l>
+               <l>
+                  <pb facs="tcp:110390:2"/>
+                  <!-- PDF PAGE 12 -->And vvould you have his qualities deſcride,</l>
+               <l>The GOD of Hoaſts, and Iſrael's Armies guide</l>
+               <l>When vvith his Seruant IOB,<note place="margin">
+                     <hi>Iob.</hi> 39.22.</note> he held diſcourſe</l>
+               <l>Told him the rare perfections of the <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ORSE;</l>
+               <l>"His Creſt is cloath'd vvith thunder: None can make</l>
+               <l>"His ſinevvy limbs like graſhoppers to quake:</l>
+               <l>"His flouting noſtrills breath a fearefull ſmoack:</l>
+               <l>"The valley trembles, at his hoofs hard ſtroack:</l>
+               <l>"Hee glories in his ſtrength; And trampling goes</l>
+               <l>"To meet the ſquadrons of his armed foes:</l>
+               <l>"He ſcorneth feare, and is no vvhit afraid;</l>
+               <l>"Nor turnes about at ſight of brandish'd blade;</l>
+               <l>"The quiuer ratleth in his raiſed eares:</l>
+               <l>"He ſlights the glance of gliſtring ſhields and ſpeares:</l>
+               <l>"His fiercenes, rage doth ſvvallovv up the ground:</l>
+               <l>"And he diſdaines the trumpets auvvfull ſound:</l>
+               <l>"Hee neighs and curbets at the trumpets noiſe;</l>
+               <l>"And ſmells the vvarre a farre: Heares the lovvd voyce</l>
+               <l>"Of thundring Captaines; And the ſhouts and cryes</l>
+               <l>"Of Souldiours, and ſhootes lightning from his eyes.</l>
+            </lg>
+            <lg>
+               <l>The generous HORSE hath a great Sympathy</l>
+               <l>With his proud Ryder, and can preſently</l>
+               <l>Conceiue his meaning, vvhen He finds him ſtirre</l>
+               <l>The reynes, or raiſe his rod, or vvagg his ſpurre;</l>
+               <l>As if his mouth and flankes had eyes and eares</l>
+               <l>To heare and ſee his riders dumb deſires;</l>
+               <l>Or that his limbs vvere members of that head</l>
+               <l>Whoſe hand and fancie doth his motions lead;</l>
+               <l>What greater pleaſure, then to ſee him goe</l>
+               <l>Puffing ſide-vvaies turning to and fro?</l>
+               <l>His Head and body, or a gallop ſtrike</l>
+               <l>With Majeſty and meaſure raiſd alike,</l>
+               <l>Or vvhen he finds the reines more free, to flie</l>
+               <l>More ſvvift then Parthian ſhaft, outrun the eie</l>
+               <l>Vntill his ſpeed have left behind the plain</l>
+               <l>And he come bravelie foaming home againe.</l>
+               <l>
+                  <pb facs="tcp:110390:3"/>
+                  <!-- PDF PAGE 13 -->Then vvith a ſenſe of honour, as it vvere</l>
+               <l>Puffd up, he proudly caſts, novv heere, novv there</l>
+               <l>His flaming eyes, and chafes his clattring bitt,</l>
+               <l>As if he vvould ſay ſomething but for it,</l>
+               <l>But vvhen he's armd for fight; And on his head</l>
+               <l>A loftie pannach vvafting plumes doe ſpread:</l>
+               <l>What Curbetts, and vvhat capriolls he makes,</l>
+               <l>What volts? vvith vvhoſe ſad vveight the center ſhakes:</l>
+               <l>With vvhat diſdaine he ſtrikes and ſcrapes the ground?</l>
+               <l>Whileſt neighing loud he makes the fields reſound,</l>
+               <l>And in a noble furie ſeemes to plaine</l>
+               <l>The curbing reines his courage ſhould reſtraine:</l>
+               <l>His rage enflames, and breathing fire and ſmoak</l>
+               <l>He capers, kicks, and doth himſelfe prouoak;</l>
+               <l>Turnes round, and riſes over end, to ſee</l>
+               <l>With froathing mouth, a farre the Enemy.</l>
+            </lg>
+            <lg>
+               <l>This noble creature ſince the vvorld began</l>
+               <l>Hath beene the darling, and delight of Man;</l>
+               <l>And for his vvorth more Princes loue hath vvonne</l>
+               <l>Then all the reſt together, Hee alone:</l>
+               <l>So much that vvhen I name him, I proteſt</l>
+               <l>I bluſh, and grieue to call him but a beaſt.</l>
+            </lg>
+            <lg>
+               <l>The vviſe and valiant CIMON, vvhom proud Greece</l>
+               <l>So much doth boaſt of, thought it no diſgrace</l>
+               <l>To lay his HORSE beſide himſelfe, and have</l>
+               <l>Cloaſe by his tomb his Horſes ioyning grave.</l>
+            </lg>
+            <lg>
+               <l>Great ALEXANDER, vvho the earth o're ranne,</l>
+               <l>And greedie vviſhd more vvorlds for him to vvonne,</l>
+               <l>Did found a City in his conqueſts courſe</l>
+               <l>In honour of Bucephalus his HORSE.</l>
+            </lg>
+            <lg>
+               <l>Braue Julius CAESAR, Romes triumphant God,</l>
+               <l>Whoſe conqueſts ore his countries freedome rode?</l>
+               <l>And reft by force the crovvne to proue Her courſe</l>
+               <l>So much eſteem'd dearely lou'd his Horſe,</l>
+               <l>
+                  <pb facs="tcp:110390:3"/>
+                  <!-- PDF PAGE 13 -->That in his temple vvhere the people bovvd</l>
+               <l>To vvorſhip him, his HORSE in marble ſtood.</l>
+            </lg>
+            <lg>
+               <l>Milde ANTONIN, whoſe vviſe and happy Raigne</l>
+               <l>A paterne yet for Princes doth remaine:</l>
+               <l>So lov'd the HORSE, that he vvith coſt did mould</l>
+               <l>And caſt his Statue into pureſt gold.</l>
+               <l>And VERUS buried in the Vatican</l>
+               <l>A HORSE vvith all the honours due to Man.</l>
+            </lg>
+            <lg>
+               <l>CALIGULA, though othervvaies a beaſt</l>
+               <l>Did oft inuite his Horſe to be his gueſt,</l>
+               <l>Drunck healths unto him, deckt him vvith his cloack</l>
+               <l>And vvould haue made him CONSUL, had he ſpoke.</l>
+               <l>Yea vvhen he vvrongd the Prieſthood, and vvould take</l>
+               <l>That place, he did his HORSE his Colleague make.</l>
+            </lg>
+            <lg>
+               <l>NERO, that ne'er lou'd Creature, young nor old,</l>
+               <l>Even ſcarſe himſelfe; his HORSE ſo deare did hold</l>
+               <l>That clad in purple, he muſt weare the Govvne</l>
+               <l>As SENATOR, and walk abroad the towne:</l>
+               <l>And his fine wanton wench SABINA would</l>
+               <l>Her HORSE have ſhod with none but ſhooes of gold.</l>
+            </lg>
+            <lg>
+               <l>The HORSE is often cauſe of victory,</l>
+               <l>And in the battle fighteth furiouſly;</l>
+               <l>He bites and ſtrikes, and beats whole ſquadrons downe</l>
+               <l>Rides o're the ranks, till all be quite o'rethrowne;</l>
+               <l>And will not heare the ſound of the retreit,</l>
+               <l>But followes thoſe that flie, and are defeat.</l>
+            </lg>
+            <lg>
+               <l>The HORSE was fatall unto famous TROY</l>
+               <l>Which ten yeares lingring ſiedge could not annoy;</l>
+               <l>And thoſe white ſteeds ANCHISES firſt did ſee</l>
+               <l>Vpon the long ſought ſhoare of ITALY,</l>
+               <l>Portended warre; the land could not be wonne,</l>
+               <l>But with hard blowes, by his toſſd wandring Sonne.</l>
+            </lg>
+            <lg>
+               <l>A HORSE diſcouered him that ſhould be king<note place="margin">Herod. lib. <hi>3.</hi>
+                  </note>
+               </l>
+               <l>When Perſia's vviſe men forth their Peeres did bring</l>
+               <l>
+                  <pb facs="tcp:110390:4"/>
+                  <!-- PDF PAGE 14 -->Without the City gate vvel mounted all:</l>
+               <l>And hee whoſe HORSE firſt neigh'd; ('t was ſaid) ſhould fall</l>
+               <l>The Crowne by lott; vvhich Darius did obtaine,</l>
+               <l>And by that means came o're the Land to raigne.</l>
+            </lg>
+            <lg>
+               <l>The HORSE, Warres Simbole, is alive, or dead,</l>
+               <l>As well vvas ſeene in CARTHAGE, by the Head</l>
+               <l>Of one was found, when firſt faire Dido founded</l>
+               <l>That Towne; and with ſtrong walls the Port ſurrounded.</l>
+               <l>For Rome ne'er found a folke more hard to daunt</l>
+               <l>And Hanniball of Canna's field could vaunt.</l>
+            </lg>
+            <lg>
+               <l>The HORSE for ſpeed and ſtrength ſo farre excells</l>
+               <l>All other Creatures made for ſervice elſe;</l>
+               <l>That euen th' Apoſtles ſometime are compar'd</l>
+               <l>To HORSES, for their toyle &amp; trauell hard:</l>
+               <l>As when the<note n="*" place="margin">
+                     <hi>Zechariah.</hi> 1.6.</note> Prophet in the vale of Night</l>
+               <l>Among the Mirtles ſaw that viſion bright:</l>
+               <l>"A Man that ſate upon a HORSE was red</l>
+               <l>"And others ſpeckled more behind him ſtood</l>
+               <l>"He aſked vvhat they were, and it vvas ſayd</l>
+               <l>"Thoſe whom the Lord his meſſengers had made</l>
+               <l>"To walke abroad the earth, and ſhovv his vvill</l>
+               <l>"Though all the vvorld in vvickednes ſate ſtill.</l>
+            </lg>
+            <lg>
+               <l>What greater marck of true magnificence</l>
+               <l>To ſhovv the ſtate and puiſſance of a Prince;</l>
+               <l>Then in the choice and number of his HORSE?</l>
+               <l>Which proue his povver, and doe proclaime his force.</l>
+               <l>The Mirror &amp; the Mappe of Maieſty.</l>
+               <l>Great SALOMON, vvhoſe glory reach'd the ſkye;</l>
+               <l>In nothing more his royall pomp maintaind</l>
+               <l>Then fourty thouſand HORSE he entertaind.</l>
+            </lg>
+            <lg>
+               <l>The HORSE may for his Courage juſtly clayme</l>
+               <l>A ſhare in honours, and ſurviving fame,</l>
+               <l>With all thoſe vvorthies that the vvorld admires</l>
+               <l>Thoſe valiant vvandring Knights, and ſturdie Squires</l>
+               <l>
+                  <pb facs="tcp:110390:4"/>
+                  <!-- PDF PAGE 14 -->For had not Hee, as forvvard been as they</l>
+               <l>Where ſhould vve find our Chiualry to day.</l>
+            </lg>
+            <lg>
+               <l>St. Georg himſelfe, but for his HORS I feare,</l>
+               <l>Had neuer kill'd the Dragon vvith his ſpeare;</l>
+               <l>But he hath his revvard, and fares no vvorſe</l>
+               <l>Then his proud Ryder; honoured as a Horſe.</l>
+            </lg>
+            <lg>
+               <l>The HORSE alone is vvorth a vvorld of creatures;</l>
+               <l>Whoſe ſeuerall ſeruice, ſutes but vvith their natures,</l>
+               <l>Hees fit for all things, and you cannot chuſe</l>
+               <l>A vvork becomes him vvrong; or vvants his uſe</l>
+               <l>In peace and vvarre for profit and for pleaſure</l>
+               <l>He is the Prince and Peaſants choiceſt treaſure.</l>
+            </lg>
+            <lg>
+               <l>Though Fables in fine tires haue truth diſguis'd</l>
+               <l>And tell us tales of Monſters, Men deuis'd,</l>
+               <l>As that the Centaures vvere halfe HOSRE, halfe Man:</l>
+               <l>The Moral's good, and from this ground began:</l>
+               <l>There dvvelt a people, on mount Pelions ſide</l>
+               <l>Who firſt broke Horſes, and vvere ſeene to ride,</l>
+               <l>Their ſimple neighbours thought both Man &amp; horſe</l>
+               <l>Had beene but One, and fear'd their mighty force</l>
+               <l>(As of late yeares, the ſauadge Indians thought</l>
+               <l>When Cortez firſt from Spayne, his horſmen brought:</l>
+               <l>For vvhen they fought on foot they fear'd no euill</l>
+               <l>But durſt not ſtand againſt that Spaniſh Deuil.)</l>
+               <l>From thence the Poets faind that prettie tale</l>
+               <l>To ſhovv that ſtrength and reaſon ſtill preuaile:</l>
+               <l>And therefore fained Chiron to be One</l>
+               <l>That did inſtruct faire Thetis vvarrelike Sonne:</l>
+               <l>The better in that fiction to expreſſe</l>
+               <l>Thoſe parts requir'd in him that's put to dreſſe</l>
+               <l>A Princes youth, vvhoſe vviſe &amp; deep diſcourſe</l>
+               <l>To manly Reaſon joines the ſtrength of HORSE.</l>
+            </lg>
+            <lg>
+               <l>But ſoft my Muſe, it is too much I feare</l>
+               <l>Stop here thy courſe: and hold in full cariere</l>
+               <l>The gentle HORSE ſhould not be ſpurr'd too ſore;</l>
+               <l>Nor muſt thou vvrong his patience any more,</l>
+               <l>
+                  <pb facs="tcp:110390:5"/>
+                  <!-- PDF PAGE 15 -->The gentle HORSE ſhould not be ſpurr'd too ſore;</l>
+               <l>Nor muſt thou vvrong his patience any more,</l>
+               <l>That daings to heare thy harſh, and ill-tim'd ſong</l>
+               <l>The Day is holy; hold thy pratling toung.</l>
+            </lg>
+            <lg>
+               <l>Behold Braue BALFOUR, vvith vvhat confidence</l>
+               <l>I kindly begge your fauour vvill diſpenſe</l>
+               <l>With this plaine freedome: and accept my loue</l>
+               <l>In this poore token, though a toy it proue:</l>
+               <l>The Gods of old vvere pleaſ'd vvith pooreſt things</l>
+               <l>And pettie flovvers are preſents for great Kings.</l>
+               <l>What here I offer, if it pleaſe your eye,</l>
+               <l>My vviſh is full, my verſe to Heauen vvill flie.</l>
+            </lg>
+            <lg>
+               <l>And I ſhall reach PARNASSUS ſacred ſourſe</l>
+               <l>On this Pegaſian COLT, my Flying HORSE.</l>
+            </lg>
+            <epigraph>
+               <q>SVNT ARTIBVS ARMA DECORI.</q>
+            </epigraph>
+            <pb facs="tcp:110390:5"/>
+            <!-- PDF PAGE 15 -->
+         </div>
+      </body>
+   </text>
+</TEI>
